@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carlos and I'm a Software Developer from the United States</h2>
+<h2 align="left">Hi 👋! Hi, I'm Carlos, a Software Developer from the U.S. focused on building cool and scalable solutions.</h2>
 
 ###
 
