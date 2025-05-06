@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Hi, I'm Carlos, a Software Developer from the U.S. focused on building cool and scalable solutions.</h2>
+<h2 align="left">Hi 👋! Hi, I'm Carlos Quihuis</h2>
 
 <p align="left">
   🧠 I’ve built medical AI tools like brain tumor classifiers and interactive 3D anatomical models.<br>
