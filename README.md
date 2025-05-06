@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!, I'm Carlos Quihuis</h2>
 
 <p align="left">
-  💻 I build scalable software powered by AI, LLMs, and blockchain.
+  💻 I build scalable software powered by AI, LLMs, and blockchain.<br>
   🧠 I’ve built medical AI tools like brain tumor classifiers and interactive 3D anatomical models.<br>
   🔬 Currently exploring Transformers and Large Language Models to ship scalable, intelligent systems.<br>
   🚀 Always prototyping. Always learning. Always building.
